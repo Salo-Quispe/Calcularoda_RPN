@@ -5,7 +5,7 @@
 </p>
 </div>
 
-# Aplicativo de geolocalización 
+# Integrantes
 - Nestor Chumania
 - Salome Quispe
 - Daniel Quishpe
